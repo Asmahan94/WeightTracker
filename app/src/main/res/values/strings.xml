@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"Weight Tracker "</string>
+    <string name="weight">"Weight: "</string>
+    <string name="weight_hint">"Enter your weight is current"</string>
+    <string name="loss">"Loss: "</string>
+    <string name="loss_hint">"Km / g"</string>
+    <string name="water">"Water Tracker: "</string>
+    <string name="date">"Date: "</string>
+    <string name="date_hint">"Choose from datePicker"</string>
+    <string name="refresh_data">Refresh Data</string>
+    <string name="save">SAVE</string>
+    <string name="reset">RESET</string>
+    <string name="insert_successful">Insert Successful</string>
+    <string name="insert_failed">Insert Failed</string>
+</resources>
